@@ -1,9 +1,9 @@
 ### Api expressjs jwt lesson
 ## Installation guide: 
-git clone git@github.com:Ray3en/express-jwt.git
-cd express-jwt
-npm i
-npm run dev
+* git clone git@github.com:Ray3en/express-jwt.git
+* cd express-jwt
+* npm i
+* npm run dev
 
 ## Routes:
 | method  | route |
